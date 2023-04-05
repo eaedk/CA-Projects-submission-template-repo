@@ -1,5 +1,5 @@
 # CA-Projects-template-submission-repo
-*Python analyzes and visualizes industry data on Indian startups to identify trends, funding sources, sectors, and geography for venture capitalists' investment opportunities.*
+Python analyzes and visualizes industry data on Indian startups to identify trends, funding sources, sectors, and geography for venture capitalists' investment opportunities.
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
